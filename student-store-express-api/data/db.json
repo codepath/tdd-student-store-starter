@@ -143,6 +143,267 @@
       "source": "https://en.wikipedia.org/wiki/Google_Glass",
       "description": "Have the internet mounted to your face, and get the added benefit of looking silly all the time!",
       "price": 999.99
+    },
+    {
+      "id": 16,
+      "name": "Sophia",
+      "email": "abc@gmail.com",
+      "order": [
+        {
+          "itemId": 1,
+          "quantity": 4
+        },
+        {
+          "itemId": 2,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "Wed Jun 29 2022 15:01:46 GMT-0700 (Pacific Daylight Time)"
+    },
+    {
+      "id": 17,
+      "name": "Sophia",
+      "email": "abc@gmail.com",
+      "order": [
+        {
+          "itemId": 1,
+          "quantity": 4
+        },
+        {
+          "itemId": 2,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "Wed Jun 29 2022 15:05:11 GMT-0700 (Pacific Daylight Time)"
+    },
+    {
+      "id": 18,
+      "name": "Sophia",
+      "email": "abc@gmail.com",
+      "order": [
+        {
+          "itemId": 1,
+          "quantity": 4
+        },
+        {
+          "itemId": 2,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "Wed Jun 29 2022 15:05:51 GMT-0700 (Pacific Daylight Time)"
+    },
+    {
+      "id": 19,
+      "name": "Sophia",
+      "email": "abc@gmail.com",
+      "order": [
+        {
+          "itemId": 1,
+          "quantity": 4
+        },
+        {
+          "itemId": 2,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "Thu Jun 30 2022 05:40:31 GMT-0700 (Pacific Daylight Time)"
+    },
+    {
+      "id": 20,
+      "name": "Sophia",
+      "email": "abc@gmail.com",
+      "order": [
+        {
+          "itemId": 1,
+          "quantity": 4
+        },
+        {
+          "itemId": 2,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "Thu Jun 30 2022 05:44:41 GMT-0700 (Pacific Daylight Time)"
+    },
+    {
+      "id": 21,
+      "name": "Sophia",
+      "email": "abc@gmail.com",
+      "order": [
+        {
+          "itemId": 1,
+          "quantity": 4
+        },
+        {
+          "itemId": 2,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "Thu Jun 30 2022 05:55:36 GMT-0700 (Pacific Daylight Time)"
+    },
+    {
+      "id": 22,
+      "name": "Sophia",
+      "email": "abc@gmail.com",
+      "order": [
+        {
+          "itemId": 1,
+          "quantity": 4
+        },
+        {
+          "itemId": 2,
+          "quantity": 3
+        }
+      ],
+      "total": null,
+      "createdAt": "Thu Jun 30 2022 05:55:37 GMT-0700 (Pacific Daylight Time)"
+    },
+    {
+      "id": 23,
+      "name": "Sophia",
+      "email": "abc@gmail.com",
+      "order": [
+        {
+          "itemId": 1,
+          "quantity": 4
+        }
+      ],
+      "total": 4.3065,
+      "createdAt": "Thu Jun 30 2022 06:44:56 GMT-0700 (Pacific Daylight Time)"
+    },
+    {
+      "id": 24,
+      "name": "Sophia",
+      "email": "abc@gmail.com",
+      "order": [
+        {
+          "itemId": 1,
+          "quantity": 4
+        }
+      ],
+      "total": "3.960.3465",
+      "createdAt": "Thu Jun 30 2022 06:45:24 GMT-0700 (Pacific Daylight Time)"
+    },
+    {
+      "id": 25,
+      "name": "Sophia",
+      "email": "abc@gmail.com",
+      "order": [
+        {
+          "itemId": 1,
+          "quantity": 4
+        }
+      ],
+      "total": 4.3065,
+      "createdAt": "Thu Jun 30 2022 06:47:31 GMT-0700 (Pacific Daylight Time)"
+    },
+    {
+      "id": 26,
+      "name": "Sophia",
+      "email": "abc@gmail.com",
+      "order": [
+        {
+          "itemId": 1,
+          "quantity": 4
+        },
+        {
+          "itemId": 2,
+          "quantity": 4
+        }
+      ],
+      "total": 10.8315,
+      "createdAt": "Thu Jun 30 2022 06:47:51 GMT-0700 (Pacific Daylight Time)"
+    },
+    {
+      "id": 27,
+      "name": "Sophia",
+      "email": "abc@gmail.com",
+      "order": [
+        {
+          "itemId": 1,
+          "quantity": 4
+        },
+        {
+          "itemId": 3,
+          "quantity": 4
+        }
+      ],
+      "subtotal": 15.920000000000002,
+      "taxes": 1.393,
+      "total": 17.313,
+      "createdAt": "Thu Jun 30 2022 06:56:08 GMT-0700 (Pacific Daylight Time)"
+    },
+    {
+      "id": 28,
+      "name": "Sophia",
+      "email": "abc@gmail.com",
+      "order": [
+        {
+          "itemId": 1,
+          "quantity": 4
+        },
+        {
+          "itemId": 3,
+          "quantity": 4
+        }
+      ],
+      "subtotal": "15.92",
+      "taxes": "1.39",
+      "total": "17.31",
+      "createdAt": "Thu Jun 30 2022 06:56:50 GMT-0700 (Pacific Daylight Time)"
+    },
+    {
+      "id": 29,
+      "name": "Sophia",
+      "email": "abc@gmail.com",
+      "order": [
+        {
+          "itemId": 1,
+          "quantity": 4
+        },
+        {
+          "itemId": 3,
+          "quantity": 4
+        }
+      ],
+      "subtotal": "15.92",
+      "taxes": "1.39",
+      "total": "17.31",
+      "receipt": [
+        "Hi Sophia, your receipt has been mailed to this address abc@gmail.com! Thanks for shopping with us",
+        "There were a total of 4 Rice Krispies bought for $0.99\n            each for a total of 3.96",
+        "There were a total of 4 Cinnamon Rolls bought for $2.99\n            each for a total of 11.96"
+      ],
+      "createdAt": "Thu Jun 30 2022 07:06:31 GMT-0700 (Pacific Daylight Time)"
+    },
+    {
+      "id": 30,
+      "name": "Sophia",
+      "email": "abc@gmail.com",
+      "order": [
+        {
+          "itemId": 1,
+          "quantity": 4
+        },
+        {
+          "itemId": 3,
+          "quantity": 4
+        }
+      ],
+      "subtotal": "15.92",
+      "taxes": "1.39",
+      "total": "17.31",
+      "receipt": [
+        "Hi Sophia, your receipt has been mailed to this address abc@gmail.com! Thanks for shopping with us",
+        "There were a total of 4 Rice Krispies bought for $0.99each for a total of 3.96",
+        "There were a total of 4 Cinnamon Rolls bought for $2.99each for a total of 11.96"
+      ],
+      "createdAt": "Thu Jun 30 2022 07:07:05 GMT-0700 (Pacific Daylight Time)"
     }
   ],
   "purchases": []

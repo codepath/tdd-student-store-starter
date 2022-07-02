@@ -1,0 +1,116 @@
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+    transition: all .2s cubic-bezier(.215,.61,.355,1);
+    position: fixed;
+    z-index: 100;
+    top: 0px;
+    height: 100vh;
+    padding: 0;
+    overflow-y: scroll;
+    padding-bottom: 2rem;
+    background: #b37d8b;
+    border-right: solid 1px white
+}
+.sidebar .open{
+    width: 350px;
+    background: #b37d8b;
+    border: none;
+}
+
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    /* -webkit-font-feature-settings: 'liga'; */
+    -webkit-font-smoothing: antialiased;
+}
+/* .sidebar {
+    height: 100%;
+    width: 150px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding-top: 40px;
+    background-color: lightblue;
+    }
+    
+    .sidebar div {
+    padding: 8px;
+    font-size: 24px;
+    display: block;
+    }
+    
+    .body-text {
+    margin-left: 150px;
+    font-size: 18px;
+    } */
+
+/* element.style {
+}  */
+/* .sidebar.closed {
+    width: 60px;
+}
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    flex: 1;
+    transition: all .2s cubic-bezier(.215,.61,.355,1);
+    position: fixed;
+    z-index: 100;
+    top: 0px;
+    height: 100vh;
+    padding: 0;
+    overflow-y: scroll;
+    padding-bottom: 2rem;
+    background: var(--dark-blue);
+    border-right: solid 1px white;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+a, span, div, p, h1, h2, h3, h4, h5, h6, ul, ol {
+    margin: 0;
+    padding: 0;
+    font-family: Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    color: var(--font-dark);
+}
+body {
+    margin: 0;
+    font-family: Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: var(--grey-bg);
+}
+:root {
+    --side-padding: 40px;
+    --content-width: 1100px;
+    --dark-blue: #b37d8b;
+    --bright-green: #ffb3bf;
+    --pure-white: #ffd9e3;
+    --grey-bg: #ffecf1;
+    --accent-orange: #f782c2;
+    --bright-red: #8a00d4;
+    --muted: #969696;
+    --font-dark: #212121;
+    --font-light: #5b5b5b;
+    --border-color: #e4e4e4;
+    --star-color-filled: #f9c46b;
+    --star-color-empty: #cbd4e6;
+} */

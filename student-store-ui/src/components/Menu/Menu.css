@@ -1,0 +1,32 @@
+.menu{
+    background-color: #fbe3ea;
+}
+.category-menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    flex: 1;
+    list-style-type: none;
+    height: 40px;
+    font-weight: 500;
+    transition: all .2s ease;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.menu-btn {
+    font-size: 18px;
+    font-family: Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    text-decoration: none;
+    color: black;
+    border: none;
+    background-color: #fbe3ea;
+    padding-left: 10px;
+}
+.menu-btn:hover{
+    color: grey;
+    
+    border-bottom-color: black;
+}

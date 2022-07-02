@@ -1,0 +1,32 @@
+/* Style inputs with type="text", select elements and textareas */
+.checkout-form-input {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */
+    color: black;
+    border: 1px solid grey; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  /* Style the submit button with a specific background color etc */
+ .checkout-button {
+    background-color: #b37d8b;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  /* When moving the mouse over the submit button, add a darker green color */
+  .checkout-button:hover {
+    background-color: #ffb3bf;
+  }
+/* Add a background color and some padding around the form */
+.checkout-content{
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 20px;
+  }
